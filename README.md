@@ -1,8 +1,8 @@
 # Flood-Damage-Detection-with-CNN
 
 <p>This is the readme file for the BrainStation Capstone project: Floods Damage Detection on Satellite Images with Machine Learning.<p/>
-**Author**: Margarita Popova<p/>
-**Contact**: margeorita@gmail.com<p/>
+Author: Margarita Popova<p/>
+Contact: margeorita@gmail.com<p/>
 Date: December 2022<p/>
 <p>Source of data:<p/> 
      <p>1. Main dataset (folder `dataset`): https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized<p/>
