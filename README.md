@@ -1,25 +1,26 @@
 # Flood-Damage-Detection-with-CNN
 
+<p>This is the readme file for the BrainStation Capstone project: Floods Damage Detection on Satellite Images with Machine Learning.<p/>
 Author: Margarita Popova<p/>
 Contact: margeorita@gmail.com<p/>
 Date: December 2022<p/>
 <p>Source of data:<p/> 
     1. Main dataset (folder `dataset`): https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized<p/>
     2. Predictions set (folder `predictions_set`): https://www.kaggle.com/datasets/rahultp97/louisiana-flood-2016 <p/>            
-This is the readme file for the BrainStation Capstone project: Floods Damage Detection on Satellite Images with Machine Learning.
 
-The project consists of the dataset with images, two jupyter notebooks, report, and 6 CSV-files.
+
+<p>The project consists of the dataset with images, two jupyter notebooks, report, and 6 CSV-files.
 
 ## Description of content:
-1. Folder 'dataset' - dataset of images:
-    1.1 Folder 'damage' - subset of images
-    1.2 Folder 'no_damage' - subset of images
-    damage.csv
-    no_damage.csv
+1. Folder 'dataset' - dataset of images:<p/>
+    <p>1.1 Folder 'damage' - subset of images<p/>
+    <p>1.2 Folder 'no_damage' - subset of images<p/>
+    <p>damage.csv<p/>
+    <p>no_damage.csv<p/>
 
 2. Folder 'predictions_set' - dataset of images:
-    2.1 Folder 'damage' - subset of images
-    2.2 Folder 'no_damage' - subset of images
+    <p>2.1 Folder 'damage' - subset of images<p/>
+    <p>2.2 Folder 'no_damage' - subset of images<p/>
 
 3. 1_Floods Damage_Logistic_Regression.ipynb - Jupiter notebook
 4. 2_Floods_Damage_CNN.ipynb - Jupiter notebook
