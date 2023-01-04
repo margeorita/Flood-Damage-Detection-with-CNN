@@ -5,10 +5,10 @@ The project consists of the dataset with images, two jupyter notebooks, report, 
 
 Description of content:
 1. Folder 'dataset' - dataset of images:
- 1.1 Folder 'damage' - subset of images
- 1.2 Folder 'no_damage' - subset of images
-damage.csv
-no_damage.csv
+ - 1.1 Folder 'damage' - subset of images
+ - 1.2 Folder 'no_damage' - subset of images
+- damage.csv
+- no_damage.csv
 
 2.Folder 'predictions_set' - dataset of images:
  2.1 Folder 'damage' - subset of images
