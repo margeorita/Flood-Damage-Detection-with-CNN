@@ -43,7 +43,7 @@ Date: December 2022<p/>
 2. Margarita_Popova_Floods_Short_report.pdf - overview of the project
 
 3. 1_Floods Damage_Logistic_Regression.ipynb:
-   Running the code sequentially you will use following csv:
+   - Running the code sequentially you will use following csv:
     - damage.csv - located in the folder `dataset`
     - no_damage.csv - located in the folder `dataset`
     - merged_data.csv - located in the root folder
@@ -51,7 +51,7 @@ Date: December 2022<p/>
    All directions and instructions for working with csv and dataset are described in the notebook.
 
 4. 2_Floods Damage_CNN.ipynb:
-   Running the code sequentially you will use following csv:
+   - Running the code sequentially you will use following csv:
     - damage_rgb_df.csv
     - no_damage_rgb_df.csv
    All directions and instructions for working with csv and dataset are described in the notebook.
