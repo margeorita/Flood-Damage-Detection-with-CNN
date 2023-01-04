@@ -1,9 +1,9 @@
 # Flood-Damage-Detection-with-CNN
 
--Author: Margarita Popova
--Contact: margeorita@gmail.com
--Date: December 2022
--Source of data: 
+Author: Margarita Popova<p/>
+Contact: margeorita@gmail.com<p/>
+Date: December 2022<p/>
+<p>Source of data: 
     1. Main dataset (folder `dataset`): https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized
     2. Predictions set (folder `predictions_set`): https://www.kaggle.com/datasets/rahultp97/louisiana-flood-2016             
 This is the readme file for the BrainStation Capstone project: Floods Damage Detection on Satellite Images with Machine Learning.
