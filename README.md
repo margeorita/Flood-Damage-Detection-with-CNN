@@ -5,8 +5,8 @@ Author: Margarita Popova<p/>
 Contact: margeorita@gmail.com<p/>
 Date: December 2022<p/>
 <p>Source of data:<p/> 
-    1. Main dataset (folder `dataset`): https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized<p/>
-    2. Predictions set (folder `predictions_set`): https://www.kaggle.com/datasets/rahultp97/louisiana-flood-2016 <p/>            
+    +1. Main dataset (folder `dataset`): https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized<p/>
+    +2. Predictions set (folder `predictions_set`): https://www.kaggle.com/datasets/rahultp97/louisiana-flood-2016 <p/>            
 
 
 <p>The project consists of the dataset with images, two jupyter notebooks, report, and 6 CSV-files.
