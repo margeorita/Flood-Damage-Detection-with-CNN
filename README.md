@@ -3,14 +3,14 @@ This is the readme file for the BrainStation Capstone project: Floods Damage Det
 
 The project consists of the dataset with images, two jupyter notebooks, report, and 6 CSV-files.
 
-# Description of content:
+## Description of content:
 1. Folder 'dataset' - dataset of images:
  - 1.1 Folder 'damage' - subset of images
  - 1.2 Folder 'no_damage' - subset of images
  - damage.csv
  - no_damage.csv
 
-2.Folder 'predictions_set' - dataset of images:
+2. Folder 'predictions_set' - dataset of images:
   - 2.1 Folder 'damage' - subset of images
   - 2.2 Folder 'no_damage' - subset of images
 
@@ -24,7 +24,7 @@ The project consists of the dataset with images, two jupyter notebooks, report, 
 9.no_damage_rgb_df.csv -tabular data
 
 
-# The order of interaction:
+## The order of interaction:
 1. Setup the necessary environment with GitBash (or terminal if you use Mac):
  - Open GitBash
  - Change directory to folder with script `deeplearning_env.sh` using command "cd <your directory>"
