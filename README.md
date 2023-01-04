@@ -1,12 +1,12 @@
 # Flood-Damage-Detection-with-CNN
 
 <p>This is the readme file for the BrainStation Capstone project: Floods Damage Detection on Satellite Images with Machine Learning.<p/>
-Author: Margarita Popova<p/>
-Contact: margeorita@gmail.com<p/>
+**Author**: Margarita Popova<p/>
+**Contact**: margeorita@gmail.com<p/>
 Date: December 2022<p/>
 <p>Source of data:<p/> 
-    + 1. Main dataset (folder `dataset`): https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized<p/>
-    + 2. Predictions set (folder `predictions_set`): https://www.kaggle.com/datasets/rahultp97/louisiana-flood-2016 <p/>            
+     <p>1. Main dataset (folder `dataset`): https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized<p/>
+     <p>2. Predictions set (folder `predictions_set`): https://www.kaggle.com/datasets/rahultp97/louisiana-flood-2016 <p/>            
 
 
 <p>The project consists of the dataset with images, two jupyter notebooks, report, and 6 CSV-files.
@@ -27,9 +27,9 @@ Date: December 2022<p/>
 5. damage_rgb_df.csv -tabular data
 6. deeplearning_env.sh - skript for environment setup
 6. extra_data.csv -tabular data
-7.Margarita_Popova_Floods_Short_report.pdf
+7. Margarita_Popova_Floods_Short_report.pdf
 8. merged_data.csv -tabular data
-9.no_damage_rgb_df.csv -tabular data
+9. no_damage_rgb_df.csv -tabular data
 
 
 ## The order of interaction:
