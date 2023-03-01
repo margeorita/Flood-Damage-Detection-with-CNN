@@ -30,6 +30,7 @@ Date: December 2022<p/>
 7. Margarita_Popova_Floods_Short_report.pdf
 8. merged_data.csv -tabular data
 9. no_damage_rgb_df.csv -tabular data
+10. Presentation_Floods Damage Detection with Satellite Images.pdf
 
 
 ## The order of interaction:
